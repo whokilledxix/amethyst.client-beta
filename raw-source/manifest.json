@@ -1,0 +1,58 @@
+{
+  "minecraft": {
+    "version": "1.8.9",
+    "modLoaders": [
+      {
+        "id": "forge-11.15.1.2318",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Amethyst Client [Beta V0.6]",
+  "author": "",
+  "files": [
+    {
+      "projectID": 311624,
+      "fileID": 3102753,
+      "required": true
+    },
+    {
+      "projectID": 226406,
+      "fileID": 2280558,
+      "required": true
+    },
+    {
+      "projectID": 297038,
+      "fileID": 3475671,
+      "required": true
+    },
+    {
+      "projectID": 254024,
+      "fileID": 2358629,
+      "required": true
+    },
+    {
+      "projectID": 270441,
+      "fileID": 2439695,
+      "required": true
+    },
+    {
+      "projectID": 304750,
+      "fileID": 3102750,
+      "required": true
+    },
+    {
+      "projectID": 242995,
+      "fileID": 3347909,
+      "required": true
+    },
+    {
+      "projectID": 226447,
+      "fileID": 2271089,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
